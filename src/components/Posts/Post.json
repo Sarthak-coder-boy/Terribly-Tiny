@@ -1,0 +1,31 @@
+
+[
+    {
+      "id": 1,
+      "title": "A Changing World Order",
+      "content": "The world is changing at a feverish pace. Friends, colleagues and everyone engaged in knowledge work are beginning to sense this, including....",
+      "author": "Sarthak Gupta",
+      "date": "August 2",
+      "readTime": "2 mins Read",
+      "views": 102
+    },
+    {
+      "id": 2,
+      "title": "Indian v/s Australia",
+      "content": "Think about it - this cricket series was akin to therapy. Laying our childhood trauma up top, working with it slowly and surely over two m...",
+       "author": "Sarthak Gupta",
+      "date": "August 5",
+      "readTime": "2 mins Read",
+      "views": 279
+    },
+    {
+      "id": 3,
+      "title": "Write To Build",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus velit, ex unde commodi accusantium repellat, officia soluta itaque qui laborum non ratione saepe possimus corporis necessitatibus distinctio porro impedit modi?",
+      "author": "Sarthak Gupta",
+      "date": "August 8",
+      "readTime": "4 mins Read",
+      "views": 207
+    }
+  ]
+  
